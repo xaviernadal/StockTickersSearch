@@ -12,6 +12,8 @@ $AMZN -> 15
     "EliteOptions2": 6,
     "Stocktwits": 1
 }
+
+
 $AAPL -> 12
 {
     "afortunetrading": 2,
